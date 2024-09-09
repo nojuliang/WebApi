@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="README" />
+    <None Remove="README.md" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="README" />
+    <Content Include="README.md" />
   </ItemGroup>
 
   <ItemGroup>

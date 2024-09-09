@@ -1,4 +1,4 @@
-﻿ASSIGNMENT
+﻿PURPOSE
 ----------
 Implement an API in C# which will manage Customers and Orders. No user interface is required, only an
 API to create, update and delete Customers and manage Orders. Customer entity should contain: name
